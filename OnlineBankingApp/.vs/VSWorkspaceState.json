@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OnlineBankingApp",
+    "\\OnlineBankingApp\\Areas",
+    "\\OnlineBankingApp\\bin",
+    "\\OnlineBankingApp\\Controllers",
+    "\\OnlineBankingApp\\Models",
+    "\\OnlineBankingApp\\Views"
+  ],
+  "SelectedNode": "\\OnlineBankingApp\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
